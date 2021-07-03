@@ -4,13 +4,13 @@ lypan1997@gmail.com
 
 ### Education Background
 
-09/2019 - present    Candidate for M.Sc in Electronic Science and Technology
+|09/2019 - present|Candidate for M.Sc in Electronic Science and Technology|
 
-Xidian University    (GPA: top 20%)
+| |Xidian University (GPA: top 20%)|
                    
-09/2015 - 07/2019    B.E in Commnication Engineering
+|09/2015 - 07/2019|B.E in Commnication Engineering|
 
-Qingdao University    (GPA: top 3%)
+| |Qingdao University (GPA: top 3%)|
                    
 ### Publications
 
