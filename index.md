@@ -2,7 +2,7 @@
 
 lypan1997@gmail.com
 
-## Education Background
+### Education Background
 
 09/2019 - present
 
@@ -16,7 +16,7 @@ B.E in Commnication Engineering
 
 Qingdao University  (GPA: top 3%)
                    
-## Publications
+### Publications
 
 1. **Liyan Pan**, Yongchan Gao, Yang Wang, and Linlin Mao, “Tunable union of subspaces signal detection,” submitted to _Radar Science and Technology_.
 
@@ -32,13 +32,13 @@ Qingdao University  (GPA: top 3%)
 
 7. Working paper: Persymmetric subspace signal detection in compound-Gaussian noise, to be submitted.
 
-## Conferences
+### Conferences
 
 1. Oral Presentation: “Subspace signal detection using distributed MIMO radar in structured interference and Gaussian disturbance”, in IEEE 2019 International Conference on Control, Automation and Information Sciences (ICCAIS), 2019. Introduced the proposed subspace detectors designed to suppress interference and noise and illustrated the performance improvements of the proposed detectors, especially for the proposed persymmetric one in the training-limited scenarios.
 
 2. Oral Presentation: “Persymmetric Subspace Rao and Wald Tests for Distributed Target in Partially Homogeneous Environment”, in IEEE 11th Sensor Array and Multichannel Signal Processing Workshop (SAM), 2020. Introduced the proposed persymmetric subspace Rao detector and the persymmetric subspace Wald detector, and illustrated the superiority of the proposed detectors in training-restricted situations.
 
-## Research Experience
+### Research Experience
 
 09/2019 - 07/2020   Radar signal detection in complex electromagnetic scenarios
 
@@ -48,7 +48,7 @@ Core member - Designed the detectors for different detecting scenarios and simul
 
 Core member - Evaluated the jamming suppression performance by exploiting the orthogonal design, uniform design and Bayesian-Regularization neural network.
 
-## Honors & Awards
+### Honors & Awards
 
 Excellent Graduate, Human Resources and Social Security Department of Shandong Province, 2019
 
@@ -62,7 +62,7 @@ Excellent Postgraduate, Xidian University, 2020
 
 Excellent Student, Qingdao University, 2016 and 2017
 
-## Professional Skills
+### Professional Skills
 
 Familiar with signal processing, especially radar signal detection
 
