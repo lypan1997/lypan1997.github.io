@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
+## Education Background
 
+09/2019 - present  Candidate for M.Sc in Electronic Science and Technology
+                   Xidian University      (GPA: top 20%)
+09/2015 - 07/2019  B.E in Commnication Engineering
+                   Qingdao University     (GPA: top 3%)
 You can use the [editor on GitHub](https://github.com/lypan1997/lypan1997.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
