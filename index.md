@@ -14,19 +14,35 @@ Qingdao University (GPA: top 3%)
                    
 ### Publications
 
-1. **Liyan Pan**, Yongchan Gao, Yang Wang, and Linlin Mao, “Tunable union of subspaces signal detection,” submitted to _Radar Science and Technology_.
+1.	Y. Gao, **L. Pan**, Y. Li, and L. Zuo. Multi-rank range-spread target detection method for space/time symmetric array radar under non-Gaussian clutter background[J]. _Journal of Radars_, 2022. (In Chinese)
 
-2. Yongchan Gao, **Liyan Pan**, Maoguo Gong and Lei Zuo, “Multi-rank subspace range-spread target detection against non-Gaussian clutter under small sample support,” submitted to _Journal of Electronics & Information Technology_. (The 1st author is my master thesis supervisor.)
+(Accepted; Corresponding author; EI Journal; Peking University Core Journal)
 
-3. **Liyan Pan**, Yongchan Gao and Zhihui Xin, “Subspace signal detection using distributed MIMO radar in structured interference and Gaussian disturbance,” _2019 IEEE International Conference on Control, Automation and Information Sciences (ICCAIS)_, 2019. (EI)
+2.	Y. Gao, **L. Pan**, Y. Wang, and L. Mao. Tunable Union of subspaces signal detection[J]. _Radar Science and Technology_, 2021, 19(5): 558-564. (In Chinese)
 
-4. **Liyan Pan**, Yongchan Gao, Jie Li and Zhihui Xin, “Union of Subspaces Signal Detection and Classification based on Rao and Wald Test,” _International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT)_, 2021. (Accepted, to be indexed by EI)
+(Corresponding author; Peking University Core Journal; doi: 10.3969/j.issn.1672-2337.2021.05.012)
 
-5. Yongchan Gao, **Liyan Pan**, Lei Zuo, Tao Jian, Peng Zhang, Chen Zhang, Xiaoyan Zhang. Subspace Target Detection Method Based on Central Hermitian Structure and Nonhomogeneous Model[P]. CN 202010755171.0. (Under review, the 1st inventor is my master thesis supervisor.)
+3.	**L. Pan**, Y. Gao, Z. Ye, Y. Lv, and M. Fang. Persymmetric adaptive union subspaces detection[J]. _Frontiers in Signal Processing_, 2021, 1: 1-9.
 
-6. Yongchan Gao, Linlin Mao, Hongbing Ji and **Liyan Pan**, “Persymmetric Subspace Rao and Wald Tests for Distributed Target in Partially Homogeneous Environment,” _2020 IEEE 11th Sensor Array and Multichannel Signal Processing Workshop (SAM)_, 2020. (EI)
+(doi: 10.3389/frsip.2021.782182)
 
-7. Working paper: Persymmetric subspace signal detection in compound-Gaussian noise, to be submitted.
+4.	**L. Pan**, Y. Gao, and Z. Xin. Subspace signal detection using distributed MIMO radar in structured interference and Gaussian disturbance[C]// _International Conference on Control, Automation and Information Sciences (ICCAIS)_, IEEE, 2019, Chengdu, China.
+
+(EI; Oral Presentation; doi: 10.1109/ICCAIS46528.2019.9074563)
+
+5.	**L. Pan**, Y. Gao, J. Li, and Z. Xin. Union of subspaces signal detection and classification based on Rao and Wald test[C]// _International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT)_, ACM, 2021, Changsha, China.
+
+(EI; doi: 10.1145/3474198.3478206)
+
+6.	Y. Gao, L. Mao, H. Ji, and **L. Pan**. Persymmetric subspace Rao and Wald tests for distributed target in partially homogeneous environment[C]// _IEEE 11th Sensor Array and Multichannel Signal Processing Workshop (SAM)_, IEEE, 2020, Hangzhou, China.
+
+(EI; Oral Presentation; doi: 10.1109/SAM48682.2020.9104407)
+
+7.	Y. Gao, **L. Pan**, L. Zuo, T. Jian, P. Zhang, C. Zhang, and X. Zhang. Subspace target detection method based on central Hermitian structure and nonhomogeneous model[P]. CN111856426A, 2020-10-30.
+
+8.	Y. Gao, C. Zhang, Z. Ye, Y. Lv, M. Fang, **L. Pan**, L. Zuo, and L. Mao. Moving target detection method based on clutter pre-classification[P]. CN113723253A, 2021-08-24.
+
+
 
 ### Conferences
 
@@ -36,13 +52,17 @@ Qingdao University (GPA: top 3%)
 
 ### Research Experience
 
-09/2019 - 07/2020   Radar signal detection in complex electromagnetic scenarios
+1. Jamming suppression performance evaluation
 
-Core member - Designed the detectors for different detecting scenarios and simulated the superior performance of proposed detectors.
+Evaluated the jamming suppression performance by exploiting the orthogonal design, uniform design and Bayesian-Regularization neural network.
 
-09/2020 - 05/2021   Jamming suppression performance evaluation
+2. Clutter suppression through distribution classification
 
-Core member - Evaluated the jamming suppression performance by exploiting the orthogonal design, uniform design and Bayesian-Regularization neural network.
+A classifier was built based on residual network (ResNet) to categorize the clutter distribution automatically, so that the clutter could be suppressed in a targeted way.
+
+3. Applications of Natural Language Processing exploiting deep learning approaches
+
+Addressed social network problems, such as spam email detection, and sentiment classification for Twitter comment texts, based on deep learning framework Pytorch.
 
 ### Honors & Awards
 
