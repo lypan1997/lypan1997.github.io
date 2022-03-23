@@ -37,6 +37,7 @@ Qingdao University (GPA: top 3%)
 6. Y. Gao, L. Mao, H. Ji, and **L. Pan**. Persymmetric subspace Rao and Wald tests for distributed target in partially homogeneous environment[C]// _IEEE 11th Sensor Array and Multichannel Signal Processing Workshop (SAM)_, IEEE, 2020, Hangzhou, China.
 
 (EI; Oral Presentation; doi: 10.1109/SAM48682.2020.9104407)
+
 7. Y. Gao, **L. Pan**, L. Zuo, T. Jian, P. Zhang, C. Zhang, and X. Zhang. Subspace target detection method based on central Hermitian structure and nonhomogeneous model[P]. CN111856426A, 2020-10-30.
 
 8. Y. Gao, C. Zhang, Z. Ye, Y. Lv, M. Fang, **L. Pan**, L. Zuo, and L. Mao. Moving target detection method based on clutter pre-classification[P]. CN113723253A, 2021-08-24.
