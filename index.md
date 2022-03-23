@@ -47,12 +47,15 @@ Qingdao University (GPA: top 3%)
 ### Research Experience
 
 1. Jamming suppression performance evaluation
+
 Evaluated the jamming suppression performance by exploiting the orthogonal design, uniform design and Bayesian-Regularization neural network.
 
 2. Clutter suppression through distribution classification
+
 A classifier was built based on residual network (ResNet) to categorize the clutter distribution automatically, so that the clutter could be suppressed in a targeted way.
 
 3. Applications of Natural Language Processing exploiting deep learning approaches
+
 Addressed social network problems, such as spam email detection, and sentiment classification for Twitter comment texts, based on deep learning framework Pytorch.
 
 ### Honors & Awards
